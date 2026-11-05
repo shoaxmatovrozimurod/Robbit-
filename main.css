@@ -19,11 +19,11 @@
     align-items: center;
     gap: 20px;
 }
-.header__logo{
+/* .header__logo{
     color: aqua;
     font-size: 40px;
     transition: transform 0.3s ease, color 0.3s ;
-}
+} */
 .header__logo:hover{
     color: blue;
 }
